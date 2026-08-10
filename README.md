@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shaik Obydullah 👋
 
-### Full-Stack Developer & WordPress Plugin Author
+### Full Stack Software Engineer | Cloud & DevOps Specialist | PHP • Next.js • AWS • Docker • AI Integration | Building Scalable, Business-Driven Solutions
 
 I build complete business systems — ERPs, Management Information Systems, and
 WordPress plugins — with a focus on clean architecture, automation, and
