@@ -58,17 +58,7 @@ printing, and accounting — available on the [WordPress Plugin Directory](https
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 💼 What I Do
-I build scalable, maintainable software systems that solve real business problems.
-
-I design system structures with clear boundaries, breaking complex problems into modular, loosely coupled components that remain easy to extend, test, and evolve. I define data flow, shape integration layers, and build reliable APIs that connect systems efficiently.
-
-I've built:
-- Extensible platform ecosystems
-- ERP and business management systems
-- Backend services optimized for performance and growth
-- Data-driven applications with strong separation of concerns
-
-I focus on building systems that remain stable under change and continue to evolve as business requirements grow.
+I design and build scalable, maintainable software systems that solve real business problems — spanning full-stack platforms, ERP and business management systems, and extensible ecosystems built for growth. I focus on long-term system health, making deliberate trade-offs across data flow, APIs, and infrastructure so software not only works today but adapts as requirements evolve.
 
 ## 📫 Connect With Me
 
