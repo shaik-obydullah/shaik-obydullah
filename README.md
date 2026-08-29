@@ -2,7 +2,7 @@
 
 # Hi there, I'm Shaik Obydullah 👋
 
-### Full Stack Software Engineer | Cloud & DevOps Specialist | PHP • Next.js • AWS • Docker • AI Integration | Building Scalable, Business-Driven Solutions
+### Full Stack Software Engineer | PHP • Laravel • WordPress • Next.js • AWS • Docker • AI Integration | Building Scalable, Business-Driven Solutions
 
 I build complete business systems — ERPs, Management Information Systems, and
 WordPress plugins — with a focus on clean architecture, automation, and
@@ -58,12 +58,29 @@ printing, and accounting — available on the [WordPress Plugin Directory](https
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 💼 What I Do
-I design and build scalable, maintainable software systems that solve real business problems — spanning full-stack platforms, ERP and business management systems, and extensible ecosystems built for growth. I focus on long-term system health, making deliberate trade-offs across data flow, APIs, and infrastructure so software not only works today but adapts as requirements evolve.
+
+I love solving problems the right way. I dig deep into the business problem
+first — understanding the _why_ behind the requirement — then choose the proven
+technologies of today that fit it best.
+
+Once the solution is clear, I write it with SOLID principles and the right design
+patterns where appropriate, so the system stays modular, testable, and ready to
+grow — whether that means exposing APIs or splitting into microservices later.
+
+I work in short, testable increments from the business side — meaning
+stakeholders see working software early, not months later.
+
+## ❌ What I Don't Do
+
+- Assume every business problem has an IT solution
+- Reach for the same programming language for every challenge
+- Believe every problem has a solution
 
 ## 📫 Connect With Me
 
 - 🌐 Website: [obydullah.com](https://obydullah.com)
 - 💼 LinkedIn: [Shaik Obydullah](https://www.linkedin.com/in/shaik-obydullah/)
+
 ---
 
 <p align="center">
