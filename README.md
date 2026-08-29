@@ -60,7 +60,7 @@ printing, and accounting — available on the [WordPress Plugin Directory](https
 ## 💼 What I Do
 I build scalable, maintainable software systems that solve real business problems.
 
-I structure applications into modular, loosely coupled components with clear boundaries—so they remain easy to extend, test, and evolve. I define data flow, design integration layers, and build reliable APIs that connect systems efficiently.
+I design system structures with clear boundaries, breaking complex problems into modular, loosely coupled components that remain easy to extend, test, and evolve. I define data flow, shape integration layers, and build reliable APIs that connect systems efficiently.
 
 I've built:
 - Extensible platform ecosystems
@@ -68,7 +68,7 @@ I've built:
 - Backend services optimized for performance and growth
 - Data-driven applications with strong separation of concerns
 
-I focus on systems that continue to adapt as requirements grow—not just ones that work today.
+I focus on building systems that remain stable under change and continue to evolve as business requirements grow.
 
 ## 📫 Connect With Me
 
