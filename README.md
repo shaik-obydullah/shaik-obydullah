@@ -58,21 +58,23 @@ printing, and accounting — available on the [WordPress Plugin Directory](https
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ## 💼 What I Do
+I build scalable, maintainable software systems that solve real business problems.
 
-- **ERP & Business Systems** — inventory, sales, finance (double-entry cashbook),
-  procurement, manufacturing, HRM, and e-commerce in one platform
-- **Management Information Systems** — beneficiary tracking, migration/reintegration
-  workflows, reporting, and audit trails
-- **WordPress Development** — full-featured plugins (POS, themes, core plugins)
-  published and maintained
-- **AI Integration** — self-hosted LLMs (Ollama) and ML analytics (scikit-learn,
-  Flask) for smarter, zero-API-cost automation
+I structure applications into modular, loosely coupled components with clear boundaries—so they remain easy to extend, test, and evolve. I define data flow, design integration layers, and build reliable APIs that connect systems efficiently.
+
+I've built:
+- Extensible platform ecosystems
+- ERP and business management systems
+- Backend services optimized for performance and growth
+- Data-driven applications with strong separation of concerns
+
+I focus on systems that continue to adapt as requirements grow—not just ones that work today.
 
 ## 📫 Connect With Me
 
 - 🌐 Website: [obydullah.com](https://obydullah.com)
 - 🐙 GitHub: [shaik-obydullah](https://github.com/shaik-obydullah)
-
+- 💼 LinkedIn: [Shaik Obydullah](https://www.linkedin.com/in/shaik-obydullah/)
 ---
 
 <p align="center">
