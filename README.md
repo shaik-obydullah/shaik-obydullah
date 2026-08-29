@@ -63,7 +63,6 @@ I design and build scalable, maintainable software systems that solve real busin
 ## 📫 Connect With Me
 
 - 🌐 Website: [obydullah.com](https://obydullah.com)
-- 🐙 GitHub: [shaik-obydullah](https://github.com/shaik-obydullah)
 - 💼 LinkedIn: [Shaik Obydullah](https://www.linkedin.com/in/shaik-obydullah/)
 ---
 
