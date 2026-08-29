@@ -59,22 +59,22 @@ printing, and accounting — available on the [WordPress Plugin Directory](https
 
 ## 💼 What I Do
 
-I love solving problems the right way. I dig deep into the business problem
-first — understanding the _why_ behind the requirement — then choose the proven
-technologies of today that fit it best.
-
-Once the solution is clear, I write it with SOLID principles and the right design
-patterns where appropriate, so the system stays modular, testable, and ready to
-grow — whether that means exposing APIs or splitting into microservices later.
-
-I work in short, testable increments from the business side — meaning
-stakeholders see working software early, not months later.
+- Solve problems the _right_ way — dig into the business need first, understand
+  the _why_, then pick the best technology fit
+- Build with SOLID principles and design patterns where they earn their keep —
+  modular, testable, scalable from API to microservice
+- Ship in short, business-sized increments so stakeholders see working software
+  early, not months later
+- Document and test as I build — production code the next person (or AI) can
+  pick up without a scavenger hunt
 
 ## ❌ What I Don't Do
 
-- Assume every business problem has an IT solution
-- Reach for the same programming language for every challenge
-- Believe every problem has a solution
+- Assume every business problem needs custom software — sometimes the
+  off-the-shelf answer is better
+- Force one language or one pattern on every challenge
+- Skip testing, review, or documentation to hit a deadline
+- Say "it works on my machine" and call it done
 
 ## 📫 Connect With Me
 
